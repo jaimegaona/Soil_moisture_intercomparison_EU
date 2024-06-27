@@ -1,10 +1,10 @@
 # Soil_moisture_intercomparison_EU
 
-This repository comprises the datasets used to evaluate the intercomparability of three global-scale remote-sensing and model-based soil moisture products over the European Union and the Mediterranean Basin adopted for the associated manuscript "Soil moisture products consistency for operational drought monitoring in Europe" by Jaime Gaona, Davide Bavera, Guido Fioravanti, Sebastian Hahn, Pietro Stradiotti, Paolo Filippucci, Stefania Camici, Luca Ciabatta, Hamidreza Mosaffa, Silvia Puca, Nicoletta Roberto and Luca Brocca submitted to Hydrology and Earth System Sciences Journal.
+This repository comprises the coding used to evaluate the intercomparability of three global-scale remote-sensing and model-based soil moisture products over the European Union and the Mediterranean Basin adopted for the associated manuscript "Soil moisture products consistency for operational drought monitoring in Europe" by Jaime Gaona, Davide Bavera, Guido Fioravanti, Sebastian Hahn, Pietro Stradiotti, Paolo Filippucci, Stefania Camici, Luca Ciabatta, Hamidreza Mosaffa, Silvia Puca, Nicoletta Roberto and Luca Brocca submitted to Hydrology and Earth System Sciences Journal.
 
-The datasets include the following soil moisture datasets re-gridded at the scale of spatial analysis of 5 km x 5 km of different types:
+The coding include the following soil moisture datasets re-gridded at the scale of spatial analysis of 5 km x 5 km of different types:
 
-Remote sensing origin;
+Remote sensing origin:
 
 1. a) ASCAT-SSM-ICDR–12.5km-v7 (H120) and b) -v8 (H121)
 (https://hsaf.meteoam.it/Products/Detail?prod=H120)
